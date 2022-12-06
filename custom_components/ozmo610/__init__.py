@@ -26,7 +26,7 @@ from homeassistant.components.vacuum import (
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = "deebot"
+DOMAIN = "ozmo610"
 
 CONF_COUNTRY = "country"
 CONF_CONTINENT = "continent"
