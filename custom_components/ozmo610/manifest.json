@@ -1,7 +1,7 @@
 {
   "domain": "ozmo610",
   "name": "Ecovacs Deebot Ozmo 610",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "documentation": "https://www.home-assistant.io/components/ecovacs",
   "requirements": [
     "ozmo==1.0.4"
